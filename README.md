@@ -1,4 +1,4 @@
-# Meical Mask Conrol Program
+# Medical Mask Conrol Program
 
 
 > Casscade Classifier
